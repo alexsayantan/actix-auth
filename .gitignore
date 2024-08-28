@@ -1,0 +1,5 @@
+# Compiled Binary
+/target
+
+# Enviroment 
+.env
